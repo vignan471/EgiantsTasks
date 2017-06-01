@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Vignan",
+		"technology": "Java"
+	},
+	{
+		"name": "Jeevan",
+		"technology": ".NET"
+	},
+	{
+		"name": "Raju",
+		"technology": "Java"
+	},
+	{
+		"name": "Venky",
+		"technology": ".NET"
+	},
+	{
+		"name": "Harsha",
+		"technology": "Java"
+	},
+	{
+		"name": "Harish",
+		"technology": "CRM"
+	},
+	{
+		"name": "Shiva",
+		"technology": "Java 8"
+	},
+	{
+		"name": "Dharma",
+		"technology": "Java 6"
+	},
+	{
+		"name": "Anvesh",
+		"technology": "Java"
+	},
+	{
+		"name": "Tagore",
+		"technology": "J2EE"
+	},
+	{
+		"name": "Nikhil",
+		"technology": "Spring"
+	}
+]
